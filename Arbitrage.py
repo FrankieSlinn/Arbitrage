@@ -12,7 +12,7 @@ import cbpro
 
 from forex_python.converter import CurrencyRates
 
-#for mode choose "r" for report or "c" for calculation
+#for mode choose "r" for report or "c" for calculation. To view report access CryptoData File.
 mode = "c"
 
 cr = CurrencyRates()
@@ -620,6 +620,9 @@ BstXferFee = 0
 
 
 currencyRpt = []
+
+#Put all currency reports for an exchange into one
+
 for i in range(0, len(currencies)):
     currencyRpt = globals()["report" + currencies[i]].split(",")
     currencyRpt.append(currencies[i])
@@ -649,7 +652,8 @@ BFtoBstOver0 = []
 #print("BstReportsInit", BstReports)
 #print("currencyRptCB", CBReports)
 #print("currencyRptBF", BFReports)
-# Bst to CB
+
+# Buy Bst Sell CB
 for i in range(0, len(BstReports)):
 
     if len(BstReports[i])>=8 and len(CBReports[i])>=8:
