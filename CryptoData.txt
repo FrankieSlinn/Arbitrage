@@ -1,0 +1,62 @@
+
+BTC
+ 
+Exchange   TimeStamp                      Max Fee %  Deposit Fee   Wthdraw Fee GBP Xfer Fee      Xfer to Fee   USD Bid    USD Ask    GBP Bid    GBP Ask    % Change 24H    Volume    
+Bitstamp  , 2023-03-18T19:42:04           , 0.4       , 0            , 2              , 0.0005BTC    , 0            , 27494     , 27499     , 22512     , 22528     , 2.42           , 3854.74969287
+CoinBase  ,                               , 0.6       , 0            , 0              , 0            , 0            , 27493.0   , 27493.0   , 22563.0   , 22563.0   ,                ,           
+Bitfinex  ,                               , 0.2       , 0.1          , 0.1            , 0.0004 BTC   , 0            , 27409     , 27410     , 22497     , 22506     ,                ,           
+
+ETH
+ 
+Exchange   TimeStamp                      Max Fee %  Deposit Fee   Wthdraw Fee GBP Xfer Fee      Xfer to Fee   USD Bid    USD Ask    GBP Bid    GBP Ask    % Change 24H    Volume    
+Bitstamp  , 2023-03-18T19:42:04           , 0.4       , 0            , 2              , 0.006 ETH    , 0            , 1801.7    , 1801.9    , 1475.9    , 1477.4    , 3.34           , 24291.98746699
+Coinbase  , 2023-03-18T19:42:04           , 0.6       , 0            , 0              , 0            , 0            , 1801.57   , 1801.57   , 1480.24   , 1480.24   ,                ,           
+Bitfinex  ,                               , 0.2       , 0.1          , 0.1            , 0.0016695 ETH, 0            , 1795.8    , 1795.9    , 1475.7    , 1477.1    ,                ,           
+
+XRP
+ 
+Exchange   TimeStamp                      Max Fee %  Deposit Fee   Wthdraw Fee GBP Xfer Fee      Xfer to Fee   USD Bid    USD Ask    GBP Bid    GBP Ask    % Change 24H    Volume    
+Bitstamp  , 2023-03-18T19:42:04           , 0.4       , 0            , 2              , 0.02 XRP     , 0            , 0.38121   , 0.38135   , 0.31217   , 0.31275   , 1.52           , 13485301.04061846
+CoinBase  ,                               , 0.6       , 0            , 0              , 0            , 0            , 0.38394   , 0.38394   , 0.31527   , 0.31527   ,                ,           
+Bitfinex  ,                               , 0.2       , 0.1          , 0.1            , 0.1 XRP      , 0            , 0.38016   , 0.38038   ,           ,           ,                ,           
+
+LTC
+ 
+Exchange   TimeStamp                      Max Fee %  Deposit Fee   Wthdraw Fee GBP Xfer Fee      Xfer to Fee   USD Bid    USD Ask    GBP Bid    GBP Ask    % Change 24H    Volume    
+Bitstamp  , 2023-03-18T19:42:04           , 0.4       , 0            , 2              , 0.001 LTC    , 0            , 84.97     , 85.03     , 69.63     , 69.75     , 2.37           , 28334.22540811
+CoinBase  ,                               , 0.6       , 0            , 0              , 0            , 0            , 84.95     , 84.95     , 69.87     , 69.87     ,                ,           
+Bitfinex  ,                               , 0.2       , 0.1          , 0.1            , 0.001 LTC    , 0            , 84.688    , 84.733    ,           ,           ,                ,           
+
+PAX
+ 
+Exchange   TimeStamp                      Max Fee %  Deposit Fee   Wthdraw Fee GBP Xfer Fee      Xfer to Fee   USD Bid    USD Ask    GBP Bid    GBP Ask    % Change 24H    Volume    
+Bitstamp  , 2023-03-18T19:42:04           , 0.4       , 0            , 2              , 20 PAX       , 0            , 0.99141   , 1.04984   ,           ,           , 4.98           , 251.50714 
+CoinBase  ,                               , 0.6       , 0            , 0              , 0            , 0            , 0.99505   , 0.99505   , 0.81705   , 0.81705   ,                ,           
+Bitfinex  ,                               , 0.2       , 0.1          , 0.1            , 2.0065 PAX   , 0            , 0.99987   , 1.0005    ,           ,           ,                ,           
+
+XLM
+ 
+Exchange   TimeStamp                      Max Fee %  Deposit Fee   Wthdraw Fee GBP Xfer Fee      Xfer to Fee   USD Bid    USD Ask    GBP Bid    GBP Ask    % Change 24H    Volume    
+Bitstamp  , 2023-03-18T19:42:04           , 0.4       , 0            , 2              , 0.005 XLM    , 0            , 0.08701   , 0.08705   , 0.07142   , 0.07169   , 0.42           , 8976085.97397252
+CoinBase  ,                               , 0.6       , 0            , 0              , 0            , 0            , 0.08701   , 0.08701   , 0.07149   , 0.07149   ,                ,           
+Bitfinex  ,                               , 0.2       , 0.1          , 0.1            , 0            , 0            , 0.08679   , 0.086837  ,           ,           ,                ,           
+
+LINK
+ 
+Exchange   TimeStamp                      Max Fee %  Deposit Fee   Wthdraw Fee GBP Xfer Fee      Xfer to Fee   USD Bid    USD Ask    GBP Bid    GBP Ask    % Change 24H    Volume    
+Bitstamp  , 2023-03-18T19:42:04           , 0.4       , 0            , 2              , 1.5 LINK     , 0            , 7.07      , 7.08      , 5.79      , 5.81      ,                ,           
+CoinBase  ,                               , 0.6       , 0            , 0              , 0            , 0            , 7.0735    , 7.0735    , 5.81      , 5.81      ,                ,           
+
+
+OMG
+ 
+Exchange   TimeStamp                      Max Fee %  Deposit Fee   Wthdraw Fee GBP Xfer Fee      Xfer to Fee   USD Bid    USD Ask    GBP Bid    GBP Ask    % Change 24H    Volume    
+Bitstamp  , 2023-03-18T19:42:04           , 0.4       , 0            , 2              , 3 OMG        , 0            , 1.48      , 1.49      , 1.21      , 1.26      , 1.39           , 48997.01261220
+CoinBase  ,                               , 0.6       , 0            , 0              , 0            , 0            , 1.48595   , 1.48595   , 1.22305   , 1.22305   ,                ,           
+Bitfinex  ,                               , 0.2       , 0.1          , 0.1            , 1.9252 OMG   , 0            , 1.4813    , 1.4831    ,           ,           ,                ,           
+
+AAVE
+ 
+Exchange   TimeStamp                      Max Fee %  Deposit Fee   Wthdraw Fee GBP Xfer Fee      Xfer to Fee   USD Bid    USD Ask    GBP Bid    GBP Ask    % Change 24H    Volume    
+Bitstamp  , 2023-03-18T19:42:04           , 0.4       , 0            , 2              , 0.2 AAVE     , 0            , 79.53     , 79.71     ,           ,           , 1.71           , 654.71764305
+CoinBase  ,                               , 0.6       , 0            , 0              , 0            , 0            , 79.62     , 79.62     , 65.37     , 65.37     ,                ,           
